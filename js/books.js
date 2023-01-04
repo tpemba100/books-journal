@@ -1,6 +1,6 @@
 async function getData() {
-  const url = `http://localhost:3000/books`;
-  // const url = `http://127.0.0.1:5501/books`;
+  // const url = `http://localhost:3000/books`;
+  const url = `http://127.0.0.1:5501/books`;
   const res = await fetch(url);
   const data = await res.json();
   let rows = "";
