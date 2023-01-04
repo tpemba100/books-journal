@@ -1,0 +1,62 @@
+{
+  "books": [
+    {
+      "title": "Fundamentals",
+      "author": "HC Verma",
+      "publisher": "XYZ",
+      "numPages": "1212",
+      "subject": "1",
+      "isbn": "123WQ",
+      "availability": "3",
+      "id": 1
+    },
+    {
+      "title": "sadsa",
+      "author": "sadsa",
+      "publisher": "sadsa",
+      "numPages": "123",
+      "subject": "1",
+      "isbn": "sadsa",
+      "availability": "3",
+      "id": 2
+    },
+    {
+      "title": "sadsa1",
+      "author": "sadsa2",
+      "publisher": "sadsa",
+      "numPages": "123",
+      "subject": "1",
+      "isbn": "sadsa",
+      "availability": "3",
+      "id": 3
+    },
+    {
+      "title": "s",
+      "author": "s",
+      "publisher": "s",
+      "numPages": "s",
+      "subject": "2",
+      "isbn": "s",
+      "availability": "1",
+      "id": 4
+    },
+    {
+      "title": "",
+      "author": "",
+      "publisher": "",
+      "numPages": "",
+      "subject": "",
+      "isbn": "",
+      "id": 5
+    },
+    {
+      "title": "",
+      "author": "",
+      "publisher": "",
+      "numPages": "",
+      "subject": "",
+      "isbn": "",
+      "id": 6
+    }
+  ]
+}
